@@ -1,0 +1,11 @@
+
+.div{
+  background-color: bisque;
+  margin-block: 2px;
+  -ms-flex-align: center;
+  text-align: center;
+}
+
+.TableColor{
+  text-align: center;
+}
